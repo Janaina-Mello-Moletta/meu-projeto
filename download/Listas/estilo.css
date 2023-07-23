@@ -1,0 +1,45 @@
+body{
+    font-family:sans-serif;
+    font-size:20px;
+    color:black;
+    background-color:#ffe4c4;
+}
+h1{
+    font-size:25px;
+    margin:0px;
+    padding:0px;   
+}
+h2{
+    font-size:25px;
+    margin:0px;
+    padding:0px;
+
+}
+ol li{
+    list-style-type:decimal;
+    color:black;
+    margin:0px;
+    margin-top:3px;
+    padding:3px;
+
+}
+ul li{
+    list-style-type:square;
+    color:black;
+    margin:0px;
+    margin-left:0px;
+    margin-top:3px;
+    padding:0px;
+    padding-bottom:10px;
+    
+}
+dl{
+   color:black;
+   margin:0px;
+   padding:3px;
+}
+dt{
+    color:black;
+    margin:0px;
+    padding:10px; 
+}
